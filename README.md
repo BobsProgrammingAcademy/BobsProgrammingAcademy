@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BobsProgrammingAcademy&count_private=true&theme=default&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=github-readme-stats.vercel.app&langs_count=10&theme=default)]()
-
-
 <!--
 **BobsProgrammingAcademy/BobsProgrammingAcademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

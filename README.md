@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **BobsProgrammingAcademy/BobsProgrammingAcademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,py,django,html,css,bootstrap,sass,postgres,sqlite,tensorflow,vscode,heroku)](https://skillicons.dev)
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,py,django,html,css,bootstrap,sass,postgres,sqlite,tensorflow,vscode)](https://skillicons.dev)

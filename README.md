@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobsProgrammingAcademy&theme=transparent)](https://github.com/BobsProgrammingAcademy/github-readme-stats)
+<table border="0">
+ <tr>
+    <td>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobsProgrammingAcademy&theme=transparent)](https://github.com/BobsProgrammingAcademy/github-readme-stats)
+    </td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>

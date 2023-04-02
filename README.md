@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,py,django,html,css,bootstrap,sass,postgres,sqlite,tensorflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,py,django,postgres,sqlite,tensorflow,html,css,bootstrap,sass,vscode)](https://skillicons.dev)

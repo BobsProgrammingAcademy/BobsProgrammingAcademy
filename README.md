@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,py,django,postgres,sqlite,tensorflow,html,css,bootstrap,sass,vscode)](https://skillicons.dev)
 
 <div class='container'>
-<img style="height: 200; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=BobsProgrammingAcademy&show_icons=true&theme=transparent" />
+<img style="height: 200px; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=BobsProgrammingAcademy&show_icons=true&theme=transparent" />
 &nbsp;
 &nbsp;
-<img style="height: 200; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobsProgrammingAcademy&theme=transparent&langs_count=8&layout=compact" /></div>
+<img style="height: 200px; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobsProgrammingAcademy&theme=transparent&langs_count=8&layout=compact" /></div>
 </div>

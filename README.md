@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,py,django,postgres,sqlite,tensorflow,html,css,bootstrap,sass,vscode)](https://skillicons.dev)
 
-
-<div style="display: flex; flex-direction: row;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=BobsProgrammingAcademy&show_icons=true&theme=transparent&hide_border=true" height="200" style="width: 55%;" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobsProgrammingAcademy&theme=transparent&langs_count=8&layout=compact&hide_border=true" height="200" style="width: 40%;" />
-</div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=BobsProgrammingAcademy&show_icons=true&theme=transparent&hide_border=true" align="top" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobsProgrammingAcademy&theme=transparent&langs_count=8&layout=compact&hide_border=true" align="top" /> 
+</p>

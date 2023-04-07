@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 
 <div style="display: flex; flex-direction: row;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=BobsProgrammingAcademy&show_icons=true&theme=transparent" height="200" style="width: 55%;" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobsProgrammingAcademy&theme=transparent&langs_count=8&layout=compact" height="200" style="width: 40%;" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=BobsProgrammingAcademy&show_icons=true&theme=transparent&hide_border=true" height="200" style="width: 55%;" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobsProgrammingAcademy&theme=transparent&langs_count=8&layout=compact&hide_border=true" height="200" style="width: 40%;" />
 </div>

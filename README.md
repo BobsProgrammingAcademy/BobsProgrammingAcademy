@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,py,django,postgres,sqlite,tensorflow,html,css,bootstrap,sass,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,html,css,bootstrap,sass,py,django,postgres,sqlite,tensorflow,vscode)](https://skillicons.dev)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=BobsProgrammingAcademy&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&hide=issues,contribs" align="top" /> 

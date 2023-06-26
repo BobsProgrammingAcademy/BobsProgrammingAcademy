@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,html,css,bootstrap,sass,py,django,postgres,sqlite,tensorflow,vscode)](https://skillicons.dev)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BobsProgrammingAcademy&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" align="top" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=BobsProgrammingAcademy&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&hide=issues,contribs" align="top" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobsProgrammingAcademy&theme=transparent&langs_count=8&layout=compact&hide_border=true" align="top" />
 </p>

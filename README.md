@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,html,css,sass,bootstrap,py,django,postgres,postman,vscode,git)](https://skillicons.dev)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BobsProgrammingAcademy&theme=transparent)](https://git.io/streak-stats)
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=BobsProgrammingAcademy&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&hide=issues,contribs" align="top" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobsProgrammingAcademy&theme=transparent&langs_count=8&layout=compact&hide_border=true" align="top" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BobsProgrammingAcademy)](https://git.io/streak-stats)

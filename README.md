@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=BobsProgrammingAcademy&theme=transparent&hide_border=true&stroke=transparent" align="top" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobsProgrammingAcademy&theme=transparent&langs_count=8&layout=compact&hide_border=true" align="top" />
+  <img src="https://streak-stats.demolab.com/?user=BobsProgrammingAcademy&theme=transparent&hide_border=true&stroke=transparent" align="top" /> 
 </p>
 

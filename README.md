@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 <p float="center">
   <img src="https://img.shields.io/github/stars/BobsProgrammingAcademy?style=for-the-badge&logo=github&color=005FED" align="top" />
-  <img src="https://img.shields.io/github/followers/BobsProgrammingAcademy?style=for-the-badge&logo=github&color=005FED" align="top" />
-  <img src="https://img.shields.io/github/license/BobsProgrammingAcademy/responsive-admin-dashboard?style=for-the-badge&logo=github&color=005FED" align="top" />
+  <img src="https://img.shields.io/github/followers/BobsProgrammingAcademy?style=for-the-badge&logo=github&color=FCC624" align="top" />
+  <img src="https://img.shields.io/github/license/BobsProgrammingAcademy/responsive-admin-dashboard?style=for-the-badge&logo=github&color=A81D33" align="top" />
   <img src="https://img.shields.io/youtube/channel/subscribers/UCEJyX57rvURx7ef-cx5DboA?style=for-the-badge&logo=youtube&color=239120" align="top" />
-  <img src="https://img.shields.io/youtube/channel/views/UCEJyX57rvURx7ef-cx5DboA?style=for-the-badge&logo=youtube&color=239120" align="top" />
+  <img src="https://img.shields.io/youtube/channel/views/UCEJyX57rvURx7ef-cx5DboA?style=for-the-badge&logo=youtube&color=56347C" align="top" />
 </p>
 
 <p>

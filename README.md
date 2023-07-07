@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 
 
 <p float="left">
-  <img src="https://img.shields.io/github/stars/BobsProgrammingAcademy" align="top" />
-  <img src="https://img.shields.io/github/followers/BobsProgrammingAcademy" align="top" />
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCEJyX57rvURx7ef-cx5DboA" align="top" />
+  <img src="https://img.shields.io/github/stars/BobsProgrammingAcademy?style=for-the-badge&logo=github" align="top" />
+  <img src="https://img.shields.io/github/followers/BobsProgrammingAcademy?style=for-the-badge&logo=github" align="top" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCEJyX57rvURx7ef-cx5DboA?style=for-the-badge&logo=youtube" align="top" />
+  <img src="https://img.shields.io/youtube/channel/views/UCEJyX57rvURx7ef-cx5DboA?style=for-the-badge&logo=youtube" align="top" />
+
 </p>
 
 <p>

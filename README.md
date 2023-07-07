@@ -19,9 +19,15 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,html,css,sass,bootstrap,py,django,postgres,postman,vscode,git)](https://skillicons.dev)
 
+
+<p float="left">
+  <img src="https://img.shields.io/github/stars/BobsProgrammingAcademy" align="top" />
+  <img src="https://img.shields.io/github/followers/BobsProgrammingAcademy" align="top" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCEJyX57rvURx7ef-cx5DboA" align="top" />
+</p>
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BobsProgrammingAcademy&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&hide=issues,contribs" align="top" /> 
+  <img src="https://streak-stats.demolab.com/?user=BobsProgrammingAcademy&theme=transparent&hide_border=true&stroke=transparent" align="top" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobsProgrammingAcademy&theme=transparent&langs_count=8&layout=compact&hide_border=true" align="top" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BobsProgrammingAcademy&theme=transparent&hide_border=true)](https://git.io/streak-stats)

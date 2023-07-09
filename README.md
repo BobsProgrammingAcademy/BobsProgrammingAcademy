@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,html,css,sass,bootstrap,py,django,postgres,postman,vscode,git)](https://skillicons.dev)
 
 
-<p float="center">
+<p>
   <img src="https://img.shields.io/github/stars/BobsProgrammingAcademy?style=for-the-badge&logo=github&color=005FED" align="top" />
   <img src="https://img.shields.io/github/followers/BobsProgrammingAcademy?style=for-the-badge&logo=github&color=FCC624" align="top" />
   <img src="https://img.shields.io/github/license/BobsProgrammingAcademy/responsive-admin-dashboard?style=for-the-badge&logo=github&color=A81D33" align="top" />

@@ -23,6 +23,32 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/github/stars/BobsProgrammingAcademy?style=for-the-badge&logo=github&color=005FED" align="top" />
   <img src="https://img.shields.io/github/followers/BobsProgrammingAcademy?style=for-the-badge&logo=github&color=FCC624" align="top" />
+  <img src="https://img.shields.io/github/watchers/BobsProgrammingAcademy/landing-page-bootstrap-sass
+    &responsive-sales-dashboard
+    &admin-dashboard
+    &social-media-dashboard
+    &image-classification-layout-customization
+    &image-classification
+    &image-classification-mnist
+    &freelance-developer-website
+    &portfolio-website-deployment
+    &portfolio-website-customization
+    &portfolio-website
+    &cryptocurrency-dashboard
+    &portfolio-website-bootstrap
+    &responsive-admin-dashboard
+    &business-website-template
+    &enterprise-website-template
+    &portfolio-website-django-next.js
+    &ecommerce-auction-website
+    &food-tracker
+    &portfolio-website-django-bootstrap-sass
+    &student-management-system
+    &email-client
+    &admin-dashboard-bootstrap-sass
+    &crypto-dashboard-bootstrap-sass-vanilla-js
+    ?style=for-the-badge&logo=github&color=A81D33" align="top" />
+
   <img src="https://img.shields.io/github/license/BobsProgrammingAcademy/responsive-admin-dashboard?style=for-the-badge&logo=github&color=A81D33" align="top" />
   <img src="https://img.shields.io/youtube/channel/subscribers/UCEJyX57rvURx7ef-cx5DboA?style=for-the-badge&logo=youtube&color=239120" align="top" />
   <img src="https://img.shields.io/youtube/channel/views/UCEJyX57rvURx7ef-cx5DboA?style=for-the-badge&logo=youtube&color=56347C" align="top" />

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages and Tools:
+## Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,html,css,sass,bootstrap,py,django,postgres,postman,vscode,git)](https://skillicons.dev)
 

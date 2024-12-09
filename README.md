@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,django,react,nextjs,vite,redux,jest,html,css,sass,alpinejs,tailwind,bootstrap,materialui,postgres,sqlite,postman,git,github,githubactions,jenkins,heroku,netlify,vercel,docker,tensorflow,vscode,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,django,react,nextjs,vite,redux,jest,html,css,sass,alpinejs,tailwind,bootstrap,materialui,postgres,sqlite,postman,git,github,githubactions,jenkins,heroku,vercel,netlify,docker,tensorflow,vscode,pycharm)](https://skillicons.dev)
 
 <p align="top">
   <img src="https://img.shields.io/github/stars/BobsProgrammingAcademy?style=for-the-badge&logo=github&color=005FED" />
